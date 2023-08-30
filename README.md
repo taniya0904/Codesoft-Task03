@@ -1,5 +1,5 @@
 # README: Iris Flower Classification
-### Submitted By: Jay Chopra
+### Submitted By: Taniya Minnat
 
 ## Aim:
 The aim of this project is to develop a model on the basis of given data and characters that can classify iris flowers into different species based on their characteristics and appearance like sepal and petal measurements.
